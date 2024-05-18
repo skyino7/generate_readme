@@ -55,7 +55,7 @@ export OPENAI_API_KEY="your-openai-api-key"
 
 **Check if you key has been exported:**
 ```bash
-echo OPENAI_API_KEY
+echo $OPENAI_API_KEY
 ```
 
 #### 3. Apply the Changes:
