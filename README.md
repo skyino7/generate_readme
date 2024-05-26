@@ -51,7 +51,7 @@ To ensure your script can access the OpenAI API, you need to set the API key as 
 ```sh
 export OPENAI_API_KEY="your-openai-api-key"
 ```
-- Replace "your-openai-api-key" with the actual API key you copied earlier.
+- Replace **"your-openai-api-key"** with the actual API key you copied earlier.
 
 **Check if you key has been exported:**
 ```bash
